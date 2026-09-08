@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MRR</h1> <h3 align="center">Python Developer | Backend & Bot Engineering</h3> <p align="center"> 🐍 Python Developer · 🤖 Aiogram Bots · ⚡ FastAPI · 🗄️ SQLAlchemy & Alembic </p>
+<h1 align="center">Hi 👋, I'm McQUEEN</h1> <h3 align="center">Python Developer | Backend & Bot Engineering</h3> <p align="center"> 🐍 Python Developer · 🤖 Aiogram Bots · ⚡ FastAPI · 🗄️ SQLAlchemy & Alembic </p>
 🌐 Connect with Me
 <p align="center"> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> </p>
 💻 Tech Stack
